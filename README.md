@@ -64,14 +64,20 @@ Böylece veriler daha dengeli şekilde ölçeklenir
 
 Girdi verisi:
 
-X        	Y
+X          Y
+
 5       	10
+
 8       	20
+
 12	      30
 
 Çıktı (0–1 normalize edilmiş hali):
 
-X     	Y      	X_PN	       Y_PN
+X       Y      	X_PN	       Y_PN
+
 5     	10     	0.00	       0.00
+
 8	      20     	0.37	       0.50
+
 12     	30    	1.00	       1.00
